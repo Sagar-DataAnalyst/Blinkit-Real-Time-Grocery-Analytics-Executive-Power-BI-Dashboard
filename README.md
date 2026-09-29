@@ -1,6 +1,6 @@
 # 🛒 Blinkit Real-Time Grocery Analytics - Executive Dashboard
 
-![Blinkit Banner](background%20kpi.png)
+![Blinkit Dashboard Preview](dashboard_preview.png)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
